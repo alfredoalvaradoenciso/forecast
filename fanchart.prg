@@ -84,3 +84,5 @@ show gph1
 d fore hist  zz t cuantil
 
 endsub
+
+
